@@ -2,13 +2,13 @@
 Kumpulan proyek analisis data menggunakan Python, Pandas, dan Matplotlib.
 
 ## Projects
-##1. Analisis Food Delivery Jakarta
+## 1. Analisis Food Delivery Jakarta
 - **Dataset:** 50 orderan, 7 hari, 7 resto
 - **Tools:** Python, Pandas, Matplotlib
 - **Insight utama:** Kopi Kenangan menyumbang revenue tertinggi, Sushi Murah perlu improve waktu antar
 - https://colab.research.google.com/drive/1qaVeZ19hFgODqYCgGZzPYIZuSa9nwC5e#scrollTo=moKbFPW8gcMe
 
-##2. Analisis Performa Mahasiswa
+## 2. Analisis Performa Mahasiswa
 - **Datset:** 24 mahasiswa, 3 angkatan
 - **Tools:** Python, Pandas, Matplotlib
 - **Insight utama:** Terdapat korelasi positif antara jam belajar dan IPK
